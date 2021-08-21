@@ -15,3 +15,6 @@ As stated above, the main purpose is to teach this shits
 This is a simple web project, deployment can be on any web
 
 ##How to Contribute
+
+##Copyright
+Copyright 2020 Git.training
