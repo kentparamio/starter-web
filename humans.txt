@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kent Gabriel  kentparamio@git.training  @kentgdragon
 
 # THANKS
 
