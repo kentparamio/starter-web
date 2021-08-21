@@ -16,5 +16,7 @@ This is a simple web project, deployment can be on any web
 
 ##How to Contribute
 
+Please fork this repository
+
 ##Copyright
 Copyright 2020 Git.training
